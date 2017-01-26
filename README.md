@@ -2,6 +2,8 @@
 
 From the Odin project's curriculum http://www.theodinproject.com/web-development-101/html-css
 
+View in browser: https://jestir1234.github.io/google-homepage/
+
 Replicate Google's homepage and Google's search result page.
 
 Project Goals

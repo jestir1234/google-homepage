@@ -1,5 +1,9 @@
 # google-homepage
-The Odin Project >> courses/web-development-101/lessons/html-css
+
+From the Odin project's curriculum http://www.theodinproject.com/web-development-101/html-css
+
+Replicate Google's homepage and Google's search result page.
+
 Project Goals
 ****************************
  - Created google nav incl. (Gmail, Images, google-menu items)
